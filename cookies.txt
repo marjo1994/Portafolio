@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.lifeinsys.com	TRUE	/	FALSE	1999999999	__cfduid	dec89c24601a44d8100b62d778164cdfd1561326497
+
